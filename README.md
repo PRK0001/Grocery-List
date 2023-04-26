@@ -1,5 +1,5 @@
-# Grocery-List Web Application
-Features
+## Grocery-List Web Application
+#Features
 Add grocery items to the list
 Remove grocery items from the list
 Clear the entire list
